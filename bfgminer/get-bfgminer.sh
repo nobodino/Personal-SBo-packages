@@ -1,6 +1,6 @@
-#!/bin/sh
-
-# Copyright 2018  Patrick J. Volkerding, Sebeka, Minnesota, USA
+#!/bin/bash
+#
+# Copyright 2018,2019,2020,2021  "nobodino", Bordeaux, FRANCE
 # All rights reserved.
 #
 # Redistribution and use of this script, with or without modification, is
