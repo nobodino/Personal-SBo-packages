@@ -83,7 +83,7 @@ CXXFLAGS="$SLKCFLAGS" \
   --build=$ARCH-slackware-linux
 
 make $NUMJOBS || make || exit 1
-make install DESTDIR=$PKG
+make install DESTDIR=$PKG || exit 1
 
 find $PKG/usr/man -type f -exec gzip -9 {} \;
 
