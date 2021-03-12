@@ -3,7 +3,7 @@
 # Slackware build script for mono
 # Written by Sebastián Salazar Molina <ssalazar@orangepeople.cl>
 # Updated by Andre Barboza <bmg.andre@gmail.com>
-# Updated by nobodino https://github.com/nobodino/Personal-SBo-packages
+# Updated by "nobodino", Bordeaux, FRANCE
 
 PRGNAM=mono
 VERSION=${VERSION:-6.12.0.107}
