@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Copyright 2018,2019,2020,2021  "nobodino", Bordeaux, FRANCE
+# Copyright 2021  "nobodino", Bordeaux, FRANCE
 # All rights reserved.
 #
 # Redistribution and use of this script, with or without modification, is
